@@ -1,0 +1,263 @@
+Unity Editor version:    2021.3.21f1 (1b156197d683)
+Branch:                  2021.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.0.1 (Build 21A559)
+Darwin version:          21.1.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        24576 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker9
+-projectPath
+/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/CARRITO DE HAMBURGUESAS/CarritoHamburguesas
+-logFile
+Logs/AssetImportWorker9.log
+-srvPort
+51118
+Successfully changed project path to: /Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/CARRITO DE HAMBURGUESAS/CarritoHamburguesas
+/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/CARRITO DE HAMBURGUESAS/CarritoHamburguesas
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [4572222976] Host "[IP] 192.168.5.103 [Port] 0 [Flags] 2 [Guid] 924756504 [EditorId] 924756504 [Version] 1048832 [Id] OSXEditor(0,iMac-de-Ana.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [4572222976] Host "[IP] 192.168.5.103 [Port] 0 [Flags] 2 [Guid] 924756504 [EditorId] 924756504 [Version] 1048832 [Id] OSXEditor(0,iMac-de-Ana.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 77.06 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.21f1 (1b156197d683)
+[Subsystems] Discovering subsystems at path /Applications/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/CARRITO DE HAMBURGUESAS/CarritoHamburguesas/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+iMac preferred device: AMD Radeon Pro 5300 (high power)
+Metal devices available: 1
+0: AMD Radeon Pro 5300 (high power)
+Using device AMD Radeon Pro 5300 (high power)
+Initializing Metal device caps: AMD Radeon Pro 5300
+Initialize mono
+Mono path[0] = '/Applications/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56703
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000584 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 73.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.720 seconds
+Domain Reload Profiling:
+	ReloadAssembly (720ms)
+		BeginReloadAssembly (80ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (534ms)
+			LoadAssemblies (79ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (136ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (312ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (74ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (183ms)
+				ProcessInitializeOnLoadMethodAttributes (48ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002565 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/CARRITO DE HAMBURGUESAS/CarritoHamburguesas/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/CARRITO DE HAMBURGUESAS/CarritoHamburguesas/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.206 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4207ms)
+		BeginReloadAssembly (132ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (3958ms)
+			LoadAssemblies (1080ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (329ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (59ms)
+			SetupLoadedEditorAssemblies (2381ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (2284ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3047 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (84.7 KB). Loaded Objects now: 3507.
+Memory consumption went from 103.4 MB to 103.3 MB.
+Total: 3.432057 ms (FindLiveObjects: 0.261549 ms CreateObjectMapping: 0.257105 ms MarkObjects: 2.740771 ms  DeleteObjects: 0.172034 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 12644.506749 seconds.
+  path: Assets/POLYGON city pack/Prefabs/Floor/Street 4 8M prefab.prefab
+  artifactKey: Guid(107e21d49b4ce0043a91771c91ae6c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Prefabs/Floor/Street 4 8M prefab.prefab using Guid(107e21d49b4ce0043a91771c91ae6c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd44e1c042b9b4af919cc51bc9d0b9c9e') in 0.815957 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/POLYGON city pack/Prefabs/Floor/Grass_stone_1_prefab.prefab
+  artifactKey: Guid(9fcf49ff9014a7a4b89dcd79c5ac3e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Prefabs/Floor/Grass_stone_1_prefab.prefab using Guid(9fcf49ff9014a7a4b89dcd79c5ac3e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09a0e53e1f9b38727f486e49262150e8') in 0.128084 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/POLYGON city pack/Prefabs/Floor/stoneway 1.prefab
+  artifactKey: Guid(f8d7a78846ea16e40a90f85d3e26d338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Prefabs/Floor/stoneway 1.prefab using Guid(f8d7a78846ea16e40a90f85d3e26d338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95ba71a4df53b317c7d738071ffea35a') in 0.306364 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/POLYGON city pack/Prefabs/Floor/Street 1 Prefab.prefab
+  artifactKey: Guid(625d4ab1ce4723c449f165b8e7f27de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Prefabs/Floor/Street 1 Prefab.prefab using Guid(625d4ab1ce4723c449f165b8e7f27de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f77f82a6ac4f10ac9a9c0ac1fe77723') in 0.471250 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/POLYGON city pack/Prefabs/Floor/Street 14 Prefab.prefab
+  artifactKey: Guid(dfad69e67150a0647b6f696171d22428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Prefabs/Floor/Street 14 Prefab.prefab using Guid(dfad69e67150a0647b6f696171d22428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '685ef8151c4bca63fa6bf6e8757f3b0e') in 0.327671 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/POLYGON city pack/Prefabs/Floor/Sideway 1 prefab.prefab
+  artifactKey: Guid(ff7206cbdafefa144bb8ac229bf9046e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Prefabs/Floor/Sideway 1 prefab.prefab using Guid(ff7206cbdafefa144bb8ac229bf9046e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff4e4b45b359b5b27a8d26a3ea97c1b4') in 0.167604 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/POLYGON city pack/Prefabs/Floor/WalkWay 5 prefab.prefab
+  artifactKey: Guid(7446a392a730ac14d9cc70d21cf7ace0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Prefabs/Floor/WalkWay 5 prefab.prefab using Guid(7446a392a730ac14d9cc70d21cf7ace0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02439104b3d6272fe93dba70306a06b3') in 0.227218 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/POLYGON city pack/Prefabs/Floor/Sideway 12 prefab.prefab
+  artifactKey: Guid(9390e70d13c7e454f8022d50d0112dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Prefabs/Floor/Sideway 12 prefab.prefab using Guid(9390e70d13c7e454f8022d50d0112dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd618e5bbd04712446ed6952fe58f1d08') in 0.073578 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/POLYGON city pack/Prefabs/Floor/stoneway 4.prefab
+  artifactKey: Guid(7b6b731fe1cb4794496aa07fda2bf67c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Prefabs/Floor/stoneway 4.prefab using Guid(7b6b731fe1cb4794496aa07fda2bf67c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5215a99870502b7baa54ae642ef9e55') in 0.234859 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/POLYGON city pack/Prefabs/Floor/Street 13 Prefab.prefab
+  artifactKey: Guid(9338c70e4379d504695b5390f8421d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Prefabs/Floor/Street 13 Prefab.prefab using Guid(9338c70e4379d504695b5390f8421d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2102e5faf6db4fbe2e24a7691ff49e10') in 0.179729 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/POLYGON city pack/Prefabs/Floor/Sideway 8 prefab.prefab
+  artifactKey: Guid(5617f09499355b14bb58fe8aeb052d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Prefabs/Floor/Sideway 8 prefab.prefab using Guid(5617f09499355b14bb58fe8aeb052d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bc7966c052b92df4a7eeeca849d2d46') in 0.073457 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/POLYGON city pack/Prefabs/Floor/Street 21 Prefab.prefab
+  artifactKey: Guid(8e333c3d9aca5ec419b24e89d083d1e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Prefabs/Floor/Street 21 Prefab.prefab using Guid(8e333c3d9aca5ec419b24e89d083d1e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13bcabb8fd97ee5a994674fe86e2091') in 0.157265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/POLYGON city pack/Prefabs/Floor/Street 20 Prefab.prefab
+  artifactKey: Guid(7de21ec9cb2ee3c4e8b383869c2b441a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Prefabs/Floor/Street 20 Prefab.prefab using Guid(7de21ec9cb2ee3c4e8b383869c2b441a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b7b737c8fbfd4e749e7309c785c7fb5') in 0.255267 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/POLYGON city pack/Prefabs/Floor/Street 8 Prefab.prefab
+  artifactKey: Guid(45374165b7b045b498462bc2d3987a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Prefabs/Floor/Street 8 Prefab.prefab using Guid(45374165b7b045b498462bc2d3987a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d5f41c9cf1e68aab0bc00885a1e7ca4') in 0.109099 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/POLYGON city pack/Prefabs/Floor/Street 17 Prefab.prefab
+  artifactKey: Guid(ea27830310984ee42a182381495d5561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Prefabs/Floor/Street 17 Prefab.prefab using Guid(ea27830310984ee42a182381495d5561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96ea16b4549a8ed690d4dcbda185203c') in 0.120305 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
