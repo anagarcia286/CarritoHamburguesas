@@ -108,6 +108,7 @@
 -define:ENABLE_TERRAIN
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
+-define:ENABLE_INPUT_SYSTEM
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:CSHARP_7_OR_LATER
@@ -322,16 +323,16 @@
 -r:"/Applications/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.Transactions.dll"
 -r:"/Applications/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll"
 -r:"/Applications/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll"
--r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/CARRITO DE HAMBURGUESAS/CarritoHamburguesas/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/log4netPlastic.dll"
--r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/CARRITO DE HAMBURGUESAS/CarritoHamburguesas/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll"
--r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/CARRITO DE HAMBURGUESAS/CarritoHamburguesas/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll"
--r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/CARRITO DE HAMBURGUESAS/CarritoHamburguesas/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/unityplastic.dll"
--r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/CARRITO DE HAMBURGUESAS/CarritoHamburguesas/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
--r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/CARRITO DE HAMBURGUESAS/CarritoHamburguesas/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll"
--r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/CARRITO DE HAMBURGUESAS/CarritoHamburguesas/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll"
--r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/CARRITO DE HAMBURGUESAS/CarritoHamburguesas/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll"
--r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/CARRITO DE HAMBURGUESAS/CarritoHamburguesas/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll"
--r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/CARRITO DE HAMBURGUESAS/CarritoHamburguesas/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/github/CarritoHamburguesas/CarritoHamburguesas/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/log4netPlastic.dll"
+-r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/github/CarritoHamburguesas/CarritoHamburguesas/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll"
+-r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/github/CarritoHamburguesas/CarritoHamburguesas/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll"
+-r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/github/CarritoHamburguesas/CarritoHamburguesas/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/unityplastic.dll"
+-r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/github/CarritoHamburguesas/CarritoHamburguesas/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/github/CarritoHamburguesas/CarritoHamburguesas/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll"
+-r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/github/CarritoHamburguesas/CarritoHamburguesas/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll"
+-r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/github/CarritoHamburguesas/CarritoHamburguesas/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll"
+-r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/github/CarritoHamburguesas/CarritoHamburguesas/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll"
+-r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/github/CarritoHamburguesas/CarritoHamburguesas/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.Editor.ref.dll"

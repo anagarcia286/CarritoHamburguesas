@@ -111,6 +111,7 @@
 -define:ENABLE_TERRAIN
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
+-define:ENABLE_INPUT_SYSTEM
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:CSHARP_7_OR_LATER
@@ -321,7 +322,7 @@
 -r:"/Applications/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"/Applications/Unity.app/Contents/NetStandard/ref/2.1.0/netstandard.dll"
 -r:"/Applications/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll"
--r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/CARRITO DE HAMBURGUESAS/CarritoHamburguesas/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"/Volumes/ANA/0 UNIR/CURSOS MASTER/7 NUEVAS TECNOLOGIAS/LAB ENTORNO VR/github/CarritoHamburguesas/CarritoHamburguesas/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 "Library/PackageCache/com.unity.test-framework@1.1.31/UnityEngine.TestRunner/AssemblyInfo.cs"
 "Library/PackageCache/com.unity.test-framework@1.1.31/UnityEngine.TestRunner/Assertions/AllocatingGCMemoryConstraint.cs"
 "Library/PackageCache/com.unity.test-framework@1.1.31/UnityEngine.TestRunner/Assertions/ConstraintsExtensions.cs"
