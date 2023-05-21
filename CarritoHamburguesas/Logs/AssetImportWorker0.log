@@ -8741,3 +8741,45 @@ Received Import Request.
   path: Assets/Scenes/escena carrito.unity
   artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
 Start importing Assets/Scenes/escena carrito.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'b26d1ff8b6f0916e66710e1b527af6da') in 0.013522 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 883.344011 seconds.
+  path: Assets/Scenes/escena carrito.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/escena carrito.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed38513c7273efa0feda264a1064f461') in 0.008955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 53.098124 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '52d06db39c187a4205e095399351954b') in 0.015139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92e3dab6ed95b0f4f4672391d8d29c3e') in 0.005939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 73.004499 seconds.
+  path: Assets/Scenes/SampleScene 1.unity
+  artifactKey: Guid(03cbd992be93a4c1a8f60a85eb9bd2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene 1.unity using Guid(03cbd992be93a4c1a8f60a85eb9bd2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cd4a0beb5fd2374810aa4fd3b4c872f') in 0.006443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.901255 seconds.
+  path: Assets/Scenes/SampleScene 1.unity
+  artifactKey: Guid(03cbd992be93a4c1a8f60a85eb9bd2a2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/SampleScene 1.unity using Guid(03cbd992be93a4c1a8f60a85eb9bd2a2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'fc660cb70f90761c57b6ff2b2182ea71') in 0.107898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.144006 seconds.
+  path: Assets/Scenes/escena carrito.unity
+  artifactKey: Guid(03cbd992be93a4c1a8f60a85eb9bd2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/escena carrito.unity using Guid(03cbd992be93a4c1a8f60a85eb9bd2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1668a855e0f5a9e42376984be1517144') in 0.005921 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.968506 seconds.
+  path: Assets/Scenes/escena carrito.unity
+  artifactKey: Guid(03cbd992be93a4c1a8f60a85eb9bd2a2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/escena carrito.unity using Guid(03cbd992be93a4c1a8f60a85eb9bd2a2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '6371870613ce78fa633b9a9909c82b84') in 0.014065 seconds 
